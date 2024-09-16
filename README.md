@@ -1,6 +1,6 @@
 # Customer Segmentation by RFM Analysis in a FLO Dataset
 
-!(https://www.wordstream.com/wp-content/uploads/2021/07/how-to-get-amazon-reviews1-1.png)
+![img](https://www.wordstream.com/wp-content/uploads/2021/07/how-to-get-amazon-reviews1-1.png)
 
 ## Business Case
 
